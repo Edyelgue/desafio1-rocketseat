@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+
+#foto {
+    border: solid red 1px;
+    width: 213px;
+    height: 213px;
+    margin: 500px, 0px;
+}
+
+#instagram {
+    border: solid red 1px;
+    width: 99px;
+    height: 24px;
+    margin: 15px;
+    text-align: center;
+}
+
+.boxLink {
+    border: solid red 1px;
+    width: 326px;
+    height: 49px;
+    text-align: center;
+    margin: 16px;
+}
+
+#rodape {
+    border: solid red 1px;
+    width: 236px;
+    height: 24px;
+    margin: 68px;
+}
+
+span {
+    margin: 0px 8px 0px 2px;
+}
+
